@@ -1,0 +1,501 @@
+post_id,date,platform,product,post_text,sentiment,likes,shares,region
+1001,2025-01-14,LinkedIn,JioCinema AI,"JioBrain is just ChatGPT with a Jio logo, nothing original",Negative,114,17,Delhi
+1002,2024-02-14,Quora,JioBrain,"AI customer support is a cost cutting excuse, bring back humans",Negative,15,11,Chennai
+1003,2024-01-14,Reddit,Jio Network AI,"Jio is quietly becoming an AI company, this is underrated",Positive,214,28,Ahmedabad
+1004,2025-01-23,Reddit,Jio AI Support,"JioBrain is just ChatGPT with a Jio logo, nothing original",Negative,174,35,Bangalore
+1005,2024-02-22,Twitter,Jio AI Support,Impressed by how Jio is integrating AI into everyday services,Positive,49,45,Kolkata
+1006,2025-01-08,Quora,Jio Network AI,"JioBrain is just ChatGPT with a Jio logo, nothing original",Negative,63,48,Delhi
+1007,2024-11-12,LinkedIn,Jio Network AI,Jio AI hype is massive but product is mediocre,Negative,98,90,Delhi
+1008,2025-01-30,LinkedIn,JioBrain,"Jio AI network optimization is real, my speeds have improved significantly",Positive,437,29,Delhi
+1009,2024-11-21,LinkedIn,JioCinema AI,Jio AI chatbot actually solved my billing issue without transferring me,Positive,189,45,Chennai
+1010,2025-04-24,Twitter,Jio Network AI,Data hungry Jio AI is not something I trust with my information,Negative,325,21,Chennai
+1011,2024-05-18,Reddit,JioMart AI,JioBrain understands Hindi queries better than Google Assistant honestly,Positive,431,98,Mumbai
+1012,2025-02-16,LinkedIn,Jio AI Support,"JioBrain is actually impressive, recommended exactly what I needed",Positive,137,8,Chennai
+1013,2025-03-24,LinkedIn,JioCinema AI,Will give JioBrain more time before forming opinion,Neutral,335,63,Pune
+1014,2024-03-14,LinkedIn,JioCinema AI,"JioMart AI is decent, not sure if it's actual AI or just filters",Neutral,126,95,Hyderabad
+1015,2025-04-04,Quora,JioMart AI,"JioBrain gave me wrong information confidently, dangerous",Negative,112,17,Ahmedabad
+1016,2025-03-16,Twitter,JioCinema AI,"JioBrain is actually impressive, recommended exactly what I needed",Positive,321,20,Pune
+1017,2024-07-14,Quora,Jio Network AI,"JioBrain gave me wrong information confidently, dangerous",Negative,128,70,Mumbai
+1018,2024-12-15,LinkedIn,JioMart AI,"Jio AI chatbot kept looping me in circles, useless",Negative,57,37,Pune
+1019,2025-01-04,LinkedIn,Jio Network AI,"JioBrain is actually impressive, recommended exactly what I needed",Positive,390,22,Delhi
+1020,2025-03-06,Reddit,JioCinema AI,"JioBrain works for basic queries, complex ones not so much",Neutral,191,97,Bangalore
+1021,2025-04-15,Twitter,Jio Network AI,"AI customer support is a cost cutting excuse, bring back humans",Negative,165,62,Mumbai
+1022,2025-03-25,LinkedIn,JioCinema AI,Impressed by how Jio is integrating AI into everyday services,Positive,29,30,Delhi
+1023,2025-02-21,Twitter,Jio Network AI,Jio AI chatbot actually solved my billing issue without transferring me,Positive,392,16,Bangalore
+1024,2024-03-25,LinkedIn,Jio Network AI,"AI customer support is a cost cutting excuse, bring back humans",Negative,446,77,Pune
+1025,2025-01-21,Reddit,JioMart AI,Jio AI announcements sound big but execution is average,Neutral,204,85,Kolkata
+1026,2024-08-19,Twitter,JioCinema AI,The AI powered Jio app update is smooth and intuitive,Positive,115,8,Kolkata
+1027,2024-04-27,Reddit,JioBrain,The AI powered Jio app update is smooth and intuitive,Positive,36,90,Mumbai
+1028,2025-03-16,LinkedIn,JioBrain,"JioBrain is actually impressive, recommended exactly what I needed",Positive,263,30,Hyderabad
+1029,2024-10-03,Reddit,Jio Network AI,Jio calling their basic automation AI is a joke,Negative,295,60,Chennai
+1030,2024-04-07,Twitter,JioBrain,"JioBrain gave me wrong information confidently, dangerous",Negative,337,55,Kolkata
+1031,2025-03-18,Twitter,JioBrain,Jio AI chatbot actually solved my billing issue without transferring me,Positive,31,51,Kolkata
+1032,2024-05-07,Reddit,JioCinema AI,"Jio AI integration is okay, nothing groundbreaking yet",Neutral,274,57,Bangalore
+1033,2024-08-24,Reddit,JioBrain,JioMart AI suggestions are actually relevant unlike Amazon recommendations,Positive,226,70,Delhi
+1034,2025-03-04,Twitter,JioBrain,The AI powered Jio app update is smooth and intuitive,Positive,474,96,Chennai
+1035,2024-09-03,Reddit,Jio AI Support,Jio AI chatbot actually solved my billing issue without transferring me,Positive,462,7,Bangalore
+1036,2024-05-15,Quora,JioMart AI,JioBrain understands Hindi queries better than Google Assistant honestly,Positive,216,89,Ahmedabad
+1037,2024-04-21,Twitter,Jio Network AI,JioMart AI suggestions are actually relevant unlike Amazon recommendations,Positive,376,69,Mumbai
+1038,2024-01-26,Quora,Jio Network AI,"JioBrain is just ChatGPT with a Jio logo, nothing original",Negative,470,67,Bangalore
+1039,2024-02-11,Reddit,JioBrain,The AI powered Jio app update is smooth and intuitive,Positive,304,8,Chennai
+1040,2024-05-06,Twitter,Jio Network AI,"Jio is quietly becoming an AI company, this is underrated",Positive,41,53,Kolkata
+1041,2024-12-08,LinkedIn,JioCinema AI,Waiting to see how Jio AI develops over next year,Neutral,135,50,Bangalore
+1042,2024-08-22,LinkedIn,JioBrain,"JioMart AI suggested products I already bought, zero intelligence",Negative,4,58,Delhi
+1043,2024-09-16,LinkedIn,JioCinema AI,"Jio AI network optimization is real, my speeds have improved significantly",Positive,477,44,Delhi
+1044,2024-05-25,Reddit,Jio AI Support,Jio AI is functional but not wow worthy yet,Neutral,426,69,Hyderabad
+1045,2024-09-27,Twitter,Jio Network AI,Jio AI hype is massive but product is mediocre,Negative,153,84,Delhi
+1046,2024-05-15,Twitter,JioBrain,JioCinema AI recommendations are hit or miss for me,Neutral,380,70,Bangalore
+1047,2024-04-17,LinkedIn,JioCinema AI,"Jio is quietly becoming an AI company, this is underrated",Positive,351,81,Hyderabad
+1048,2025-04-08,Twitter,JioBrain,"JioMart AI suggested products I already bought, zero intelligence",Negative,324,54,Hyderabad
+1049,2025-01-29,Reddit,JioMart AI,Impressed by how Jio is integrating AI into everyday services,Positive,82,94,Ahmedabad
+1050,2024-10-14,Twitter,JioBrain,"JioBrain gave me wrong information confidently, dangerous",Negative,38,88,Bangalore
+1051,2024-10-25,Reddit,Jio AI Support,"Jio AI privacy policy is vague, not comfortable sharing data",Negative,65,5,Hyderabad
+1052,2025-04-05,LinkedIn,JioCinema AI,"JioBrain is actually impressive, recommended exactly what I needed",Positive,349,31,Delhi
+1053,2025-03-28,Quora,Jio Network AI,The AI powered Jio app update is smooth and intuitive,Positive,383,19,Chennai
+1054,2025-03-27,Quora,JioBrain,JioCinema AI recommendations are hit or miss for me,Neutral,91,94,Kolkata
+1055,2025-02-14,Reddit,JioMart AI,"JioBrain gave me wrong information confidently, dangerous",Negative,81,100,Delhi
+1056,2025-03-15,Quora,JioCinema AI,"JioBrain is actually impressive, recommended exactly what I needed",Positive,102,58,Kolkata
+1057,2024-04-24,Twitter,JioCinema AI,"Jio AI network optimization is real, my speeds have improved significantly",Positive,204,42,Hyderabad
+1058,2024-06-28,Quora,Jio Network AI,"JioBrain works for basic queries, complex ones not so much",Neutral,169,3,Delhi
+1059,2024-04-01,LinkedIn,JioBrain,"JioBrain works for basic queries, complex ones not so much",Neutral,55,76,Pune
+1060,2024-08-11,Twitter,Jio AI Support,Impressed by how Jio is integrating AI into everyday services,Positive,460,73,Chennai
+1061,2024-08-11,Twitter,Jio Network AI,"Jio AI is making internet accessible to rural India, respect",Positive,473,68,Chennai
+1062,2024-12-06,LinkedIn,Jio Network AI,"Jio's AI customer support resolved my issue in 2 minutes, no human needed",Positive,160,84,Delhi
+1063,2024-09-16,LinkedIn,Jio AI Support,"JioMart AI suggested products I already bought, zero intelligence",Negative,167,51,Hyderabad
+1064,2024-08-03,Quora,JioCinema AI,Jio calling their basic automation AI is a joke,Negative,315,72,Hyderabad
+1065,2024-06-04,LinkedIn,JioCinema AI,"JioBrain is actually impressive, recommended exactly what I needed",Positive,220,100,Kolkata
+1066,2024-12-11,Reddit,Jio Network AI,Jio is just rebranding existing AI tools as their own innovation,Negative,242,94,Bangalore
+1067,2024-09-20,LinkedIn,JioBrain,"JioMart AI suggested products I already bought, zero intelligence",Negative,419,96,Chennai
+1068,2025-02-16,Reddit,JioCinema AI,Jio calling their basic automation AI is a joke,Negative,12,5,Chennai
+1069,2025-03-11,Twitter,Jio AI Support,Will give JioBrain more time before forming opinion,Neutral,212,80,Chennai
+1070,2024-09-10,Quora,JioCinema AI,"JioBrain gave me wrong information confidently, dangerous",Negative,75,83,Mumbai
+1071,2025-02-02,Quora,JioCinema AI,"Jio AI integration is okay, nothing groundbreaking yet",Neutral,90,89,Ahmedabad
+1072,2025-04-14,Twitter,Jio AI Support,"Jio AI network optimization is real, my speeds have improved significantly",Positive,68,59,Kolkata
+1073,2024-11-09,Quora,Jio Network AI,"JioMart AI is decent, not sure if it's actual AI or just filters",Neutral,228,20,Ahmedabad
+1074,2025-03-06,LinkedIn,Jio Network AI,Jio calling their basic automation AI is a joke,Negative,248,80,Chennai
+1075,2024-12-31,LinkedIn,JioCinema AI,"Jio's AI customer support resolved my issue in 2 minutes, no human needed",Positive,139,42,Kolkata
+1076,2024-03-11,Reddit,JioCinema AI,"Jio AI integration is okay, nothing groundbreaking yet",Neutral,196,88,Bangalore
+1077,2024-07-31,Quora,JioMart AI,"Jio AI chatbot kept looping me in circles, useless",Negative,277,59,Pune
+1078,2024-07-18,Twitter,Jio Network AI,JioBrain understands Hindi queries better than Google Assistant honestly,Positive,194,61,Mumbai
+1079,2025-01-20,Quora,Jio AI Support,"JioBrain works for basic queries, complex ones not so much",Neutral,275,95,Chennai
+1080,2024-08-11,Quora,JioBrain,"JioMart AI suggested products I already bought, zero intelligence",Negative,199,43,Pune
+1081,2025-04-15,Reddit,Jio Network AI,Jio is just rebranding existing AI tools as their own innovation,Negative,273,3,Pune
+1082,2024-01-14,Twitter,Jio AI Support,Jio AI hype is massive but product is mediocre,Negative,69,59,Bangalore
+1083,2024-06-16,Reddit,Jio AI Support,JioBrain understands Hindi queries better than Google Assistant honestly,Positive,167,43,Pune
+1084,2024-05-09,Twitter,Jio AI Support,JioBrain understands Hindi queries better than Google Assistant honestly,Positive,9,95,Mumbai
+1085,2024-04-24,Twitter,JioBrain,Jio AI is functional but not wow worthy yet,Neutral,386,3,Chennai
+1086,2024-11-14,Reddit,JioCinema AI,"JioBrain is actually impressive, recommended exactly what I needed",Positive,64,60,Delhi
+1087,2024-08-26,LinkedIn,JioMart AI,Jio calling their basic automation AI is a joke,Negative,85,77,Delhi
+1088,2024-06-08,Twitter,Jio Network AI,"JioCinema AI recommendations are terrible, shows me same content repeatedly",Negative,13,39,Pune
+1089,2024-04-11,Twitter,Jio Network AI,"Jio AI is making internet accessible to rural India, respect",Positive,353,80,Chennai
+1090,2025-03-11,Twitter,Jio Network AI,JioMart AI suggestions are actually relevant unlike Amazon recommendations,Positive,400,5,Kolkata
+1091,2024-07-08,Twitter,Jio Network AI,Jio AI hype is massive but product is mediocre,Negative,331,43,Mumbai
+1092,2024-02-24,Quora,JioMart AI,"JioMart AI is decent, not sure if it's actual AI or just filters",Neutral,325,58,Bangalore
+1093,2024-09-24,LinkedIn,Jio Network AI,"Jio AI is making internet accessible to rural India, respect",Positive,413,68,Ahmedabad
+1094,2024-10-30,LinkedIn,JioMart AI,Data hungry Jio AI is not something I trust with my information,Negative,436,31,Delhi
+1095,2024-05-04,Quora,Jio Network AI,Jio AI chatbot actually solved my billing issue without transferring me,Positive,312,85,Pune
+1096,2025-03-11,LinkedIn,JioCinema AI,Jio AI chatbot actually solved my billing issue without transferring me,Positive,249,27,Kolkata
+1097,2024-05-23,LinkedIn,Jio Network AI,"Jio AI privacy policy is vague, not comfortable sharing data",Negative,5,66,Chennai
+1098,2024-07-27,Quora,Jio Network AI,"Jio AI is making internet accessible to rural India, respect",Positive,388,30,Ahmedabad
+1099,2024-08-17,Twitter,JioBrain,Jio is just rebranding existing AI tools as their own innovation,Negative,150,28,Pune
+1100,2024-12-05,LinkedIn,Jio AI Support,"JioMart AI suggested products I already bought, zero intelligence",Negative,283,67,Kolkata
+1101,2024-10-08,LinkedIn,JioMart AI,"Jio AI is making internet accessible to rural India, respect",Positive,359,58,Hyderabad
+1102,2024-03-02,Reddit,JioMart AI,"Jio AI network optimization is real, my speeds have improved significantly",Positive,61,95,Bangalore
+1103,2024-09-04,LinkedIn,Jio Network AI,"Jio AI is making internet accessible to rural India, respect",Positive,500,97,Hyderabad
+1104,2024-05-31,Reddit,JioMart AI,Waiting to see how Jio AI develops over next year,Neutral,91,38,Mumbai
+1105,2024-05-20,Twitter,JioBrain,"JioCinema AI recommendations are terrible, shows me same content repeatedly",Negative,283,37,Bangalore
+1106,2024-02-22,Twitter,Jio Network AI,Jio is just rebranding existing AI tools as their own innovation,Negative,145,60,Ahmedabad
+1107,2024-01-27,LinkedIn,Jio AI Support,"JioCinema AI recommendations are scary good, been watching for 3 hours",Positive,58,8,Pune
+1108,2024-11-18,Twitter,JioCinema AI,JioCinema AI subtitles are hilariously wrong sometimes,Negative,76,72,Hyderabad
+1109,2024-03-01,Quora,Jio Network AI,"Jio AI network optimization is real, my speeds have improved significantly",Positive,305,79,Chennai
+1110,2024-08-18,Quora,JioMart AI,"JioBrain gave me wrong information confidently, dangerous",Negative,440,75,Pune
+1111,2024-01-31,Twitter,JioCinema AI,"Jio is quietly becoming an AI company, this is underrated",Positive,320,27,Hyderabad
+1112,2024-05-02,Reddit,Jio Network AI,"JioCinema AI recommendations are terrible, shows me same content repeatedly",Negative,38,20,Mumbai
+1113,2024-10-31,Quora,JioMart AI,"Jio AI is making internet accessible to rural India, respect",Positive,16,29,Hyderabad
+1114,2025-03-16,Quora,JioBrain,Data hungry Jio AI is not something I trust with my information,Negative,351,29,Hyderabad
+1115,2024-10-28,Reddit,Jio AI Support,Jio AI hype is massive but product is mediocre,Negative,58,69,Chennai
+1116,2025-02-27,Reddit,JioBrain,"JioMart AI suggested products I already bought, zero intelligence",Negative,30,21,Hyderabad
+1117,2025-04-16,LinkedIn,Jio AI Support,JioCinema AI subtitles are hilariously wrong sometimes,Negative,63,59,Hyderabad
+1118,2024-09-13,Quora,Jio AI Support,"JioMart AI suggested products I already bought, zero intelligence",Negative,41,76,Mumbai
+1119,2024-11-05,LinkedIn,JioBrain,Jio AI is functional but not wow worthy yet,Neutral,46,29,Mumbai
+1120,2024-10-22,Twitter,JioCinema AI,"JioBrain works for basic queries, complex ones not so much",Neutral,240,66,Ahmedabad
+1121,2024-10-26,Quora,Jio AI Support,JioCinema AI recommendations are hit or miss for me,Neutral,496,11,Ahmedabad
+1122,2024-06-13,Twitter,JioCinema AI,Impressed by how Jio is integrating AI into everyday services,Positive,168,52,Ahmedabad
+1123,2025-02-20,Twitter,Jio AI Support,JioBrain understands Hindi queries better than Google Assistant honestly,Positive,45,40,Hyderabad
+1124,2025-03-18,Twitter,Jio Network AI,JioBrain understands Hindi queries better than Google Assistant honestly,Positive,236,52,Mumbai
+1125,2024-11-14,Quora,Jio AI Support,Impressed by how Jio is integrating AI into everyday services,Positive,389,6,Chennai
+1126,2025-04-19,LinkedIn,Jio AI Support,"JioCinema AI recommendations are scary good, been watching for 3 hours",Positive,450,89,Ahmedabad
+1127,2024-11-07,Reddit,JioCinema AI,JioCinema AI dubbing quality has improved massively this year,Positive,159,70,Mumbai
+1128,2024-04-25,Twitter,Jio AI Support,"Jio AI chatbot kept looping me in circles, useless",Negative,484,15,Bangalore
+1129,2024-05-29,LinkedIn,Jio AI Support,Data hungry Jio AI is not something I trust with my information,Negative,427,61,Ahmedabad
+1130,2024-03-15,Quora,JioCinema AI,The AI powered Jio app update is smooth and intuitive,Positive,471,76,Bangalore
+1131,2025-01-30,Quora,JioMart AI,"JioBrain works for basic queries, complex ones not so much",Neutral,478,100,Hyderabad
+1132,2025-01-06,LinkedIn,Jio Network AI,"JioBrain works for basic queries, complex ones not so much",Neutral,296,84,Ahmedabad
+1133,2024-10-02,Quora,JioMart AI,"JioMart AI is decent, not sure if it's actual AI or just filters",Neutral,170,70,Pune
+1134,2025-03-21,Reddit,JioCinema AI,"Jio AI privacy policy is vague, not comfortable sharing data",Negative,292,49,Chennai
+1135,2024-01-23,LinkedIn,Jio AI Support,Mixed feelings about Jio pushing AI into everything,Neutral,361,48,Pune
+1136,2024-09-10,Twitter,JioCinema AI,JioCinema AI recommendations are hit or miss for me,Neutral,257,75,Kolkata
+1137,2024-02-21,Quora,JioBrain,"JioMart AI is decent, not sure if it's actual AI or just filters",Neutral,369,18,Pune
+1138,2024-02-08,Quora,JioMart AI,JioCinema AI recommendations are hit or miss for me,Neutral,173,79,Pune
+1139,2025-03-12,Quora,JioMart AI,"Jio AI privacy policy is vague, not comfortable sharing data",Negative,320,91,Ahmedabad
+1140,2024-11-12,Twitter,JioCinema AI,"Tried JioBrain today, interesting concept, needs more work",Neutral,323,87,Hyderabad
+1141,2024-08-10,Twitter,JioBrain,"Jio AI integration is okay, nothing groundbreaking yet",Neutral,227,21,Hyderabad
+1142,2024-06-15,Twitter,JioMart AI,"Tried JioBrain today, interesting concept, needs more work",Neutral,183,47,Pune
+1143,2024-07-29,Reddit,JioCinema AI,The AI powered Jio app update is smooth and intuitive,Positive,89,10,Pune
+1144,2024-09-11,Reddit,JioCinema AI,Jio calling their basic automation AI is a joke,Negative,236,81,Hyderabad
+1145,2024-01-05,Quora,JioMart AI,Jio AI hype is massive but product is mediocre,Negative,346,69,Bangalore
+1146,2024-10-27,LinkedIn,Jio AI Support,Impressed by how Jio is integrating AI into everyday services,Positive,353,32,Ahmedabad
+1147,2024-07-15,Quora,JioBrain,Waiting to see how Jio AI develops over next year,Neutral,121,48,Kolkata
+1148,2024-05-31,Twitter,Jio AI Support,Data hungry Jio AI is not something I trust with my information,Negative,140,1,Mumbai
+1149,2025-03-02,LinkedIn,JioCinema AI,"JioMart AI is decent, not sure if it's actual AI or just filters",Neutral,310,45,Chennai
+1150,2024-05-08,Reddit,JioBrain,JioCinema AI subtitles are hilariously wrong sometimes,Negative,462,80,Mumbai
+1151,2024-01-18,LinkedIn,JioCinema AI,Jio AI chatbot actually solved my billing issue without transferring me,Positive,46,37,Kolkata
+1152,2024-04-12,Reddit,Jio Network AI,"JioCinema AI recommendations are terrible, shows me same content repeatedly",Negative,448,46,Hyderabad
+1153,2025-04-12,Quora,JioMart AI,"JioBrain works for basic queries, complex ones not so much",Neutral,382,43,Delhi
+1154,2024-03-13,Reddit,Jio AI Support,"Jio AI chatbot kept looping me in circles, useless",Negative,495,71,Kolkata
+1155,2024-01-08,LinkedIn,Jio Network AI,JioBrain understands Hindi queries better than Google Assistant honestly,Positive,63,58,Kolkata
+1156,2024-05-14,Quora,JioMart AI,Jio AI hype is massive but product is mediocre,Negative,55,86,Chennai
+1157,2025-03-28,LinkedIn,Jio Network AI,JioCinema AI subtitles are hilariously wrong sometimes,Negative,113,82,Delhi
+1158,2025-04-10,LinkedIn,Jio AI Support,Jio is just rebranding existing AI tools as their own innovation,Negative,59,17,Mumbai
+1159,2024-09-09,Twitter,JioBrain,"JioBrain works for basic queries, complex ones not so much",Neutral,120,68,Bangalore
+1160,2024-12-09,Quora,Jio Network AI,Impressed by how Jio is integrating AI into everyday services,Positive,380,93,Bangalore
+1161,2025-03-02,Quora,Jio Network AI,"Jio AI integration is okay, nothing groundbreaking yet",Neutral,208,35,Mumbai
+1162,2024-08-15,Quora,JioCinema AI,Jio calling their basic automation AI is a joke,Negative,437,46,Delhi
+1163,2024-10-05,LinkedIn,JioBrain,Jio AI is functional but not wow worthy yet,Neutral,203,35,Chennai
+1164,2024-02-16,Reddit,Jio Network AI,"JioMart AI is decent, not sure if it's actual AI or just filters",Neutral,497,2,Mumbai
+1165,2024-03-05,Reddit,JioBrain,Jio calling their basic automation AI is a joke,Negative,424,97,Chennai
+1166,2024-06-17,Reddit,Jio Network AI,Jio calling their basic automation AI is a joke,Negative,1,35,Bangalore
+1167,2024-05-08,Reddit,JioBrain,Jio AI announcements sound big but execution is average,Neutral,338,3,Bangalore
+1168,2024-10-28,LinkedIn,JioBrain,"Jio AI network optimization is real, my speeds have improved significantly",Positive,89,33,Mumbai
+1169,2024-09-26,Twitter,JioBrain,JioBrain understands Hindi queries better than Google Assistant honestly,Positive,243,57,Kolkata
+1170,2024-08-19,Reddit,Jio Network AI,"Jio AI chatbot kept looping me in circles, useless",Negative,22,93,Hyderabad
+1171,2024-02-01,Quora,Jio AI Support,"JioBrain is just ChatGPT with a Jio logo, nothing original",Negative,218,87,Delhi
+1172,2024-02-07,Twitter,JioMart AI,Jio is just rebranding existing AI tools as their own innovation,Negative,311,18,Delhi
+1173,2024-11-20,LinkedIn,Jio AI Support,"Jio is quietly becoming an AI company, this is underrated",Positive,305,67,Hyderabad
+1174,2024-08-08,Twitter,JioBrain,JioCinema AI subtitles are hilariously wrong sometimes,Negative,436,83,Chennai
+1175,2024-07-30,LinkedIn,Jio AI Support,"Jio AI network optimization is real, my speeds have improved significantly",Positive,204,53,Delhi
+1176,2024-12-06,LinkedIn,JioMart AI,Impressed by how Jio is integrating AI into everyday services,Positive,488,19,Ahmedabad
+1177,2024-02-17,Quora,JioBrain,"Jio's AI customer support resolved my issue in 2 minutes, no human needed",Positive,381,94,Kolkata
+1178,2024-01-31,LinkedIn,JioBrain,Jio AI announcements sound big but execution is average,Neutral,210,45,Pune
+1179,2024-05-27,LinkedIn,JioMart AI,"Tried JioBrain today, interesting concept, needs more work",Neutral,53,73,Chennai
+1180,2024-04-24,Twitter,JioMart AI,Jio AI chatbot actually solved my billing issue without transferring me,Positive,432,71,Kolkata
+1181,2024-10-20,Reddit,Jio AI Support,JioMart AI suggestions are actually relevant unlike Amazon recommendations,Positive,432,71,Mumbai
+1182,2025-02-28,LinkedIn,JioBrain,Jio AI hype is massive but product is mediocre,Negative,92,34,Hyderabad
+1183,2024-01-04,Reddit,JioCinema AI,Jio AI is functional but not wow worthy yet,Neutral,289,84,Pune
+1184,2024-11-20,Twitter,JioBrain,"Jio AI is making internet accessible to rural India, respect",Positive,382,67,Chennai
+1185,2024-06-23,Reddit,JioMart AI,Jio AI chatbot actually solved my billing issue without transferring me,Positive,159,92,Kolkata
+1186,2024-11-01,Twitter,JioBrain,JioCinema AI subtitles are hilariously wrong sometimes,Negative,79,20,Mumbai
+1187,2024-08-14,Quora,Jio AI Support,"JioMart AI suggested products I already bought, zero intelligence",Negative,310,56,Pune
+1188,2024-02-28,LinkedIn,Jio AI Support,The AI powered Jio app update is smooth and intuitive,Positive,56,36,Ahmedabad
+1189,2024-01-24,Reddit,Jio AI Support,"JioMart AI suggested products I already bought, zero intelligence",Negative,306,7,Mumbai
+1190,2025-01-27,Reddit,JioMart AI,"Jio AI network optimization is real, my speeds have improved significantly",Positive,148,41,Delhi
+1191,2024-08-08,Reddit,JioCinema AI,"Jio AI is making internet accessible to rural India, respect",Positive,194,68,Chennai
+1192,2025-02-16,LinkedIn,JioBrain,Jio AI hype is massive but product is mediocre,Negative,203,94,Mumbai
+1193,2025-04-16,Twitter,JioMart AI,Jio AI chatbot actually solved my billing issue without transferring me,Positive,294,54,Pune
+1194,2024-05-28,Twitter,Jio AI Support,"JioBrain gave me wrong information confidently, dangerous",Negative,10,41,Bangalore
+1195,2024-08-23,LinkedIn,JioBrain,Will give JioBrain more time before forming opinion,Neutral,223,13,Chennai
+1196,2024-09-25,Twitter,Jio AI Support,JioBrain understands Hindi queries better than Google Assistant honestly,Positive,445,39,Kolkata
+1197,2024-02-09,Twitter,Jio Network AI,"JioCinema AI recommendations are scary good, been watching for 3 hours",Positive,261,24,Kolkata
+1198,2025-02-21,Reddit,JioCinema AI,JioCinema AI dubbing quality has improved massively this year,Positive,52,18,Hyderabad
+1199,2024-03-19,Twitter,JioCinema AI,"Jio is quietly becoming an AI company, this is underrated",Positive,487,98,Ahmedabad
+1200,2025-01-24,Quora,Jio Network AI,JioCinema AI subtitles are hilariously wrong sometimes,Negative,329,81,Kolkata
+1201,2024-03-18,Quora,JioBrain,Jio AI is functional but not wow worthy yet,Neutral,240,56,Hyderabad
+1202,2024-01-29,LinkedIn,Jio Network AI,JioCinema AI subtitles are hilariously wrong sometimes,Negative,37,39,Ahmedabad
+1203,2024-07-07,LinkedIn,JioBrain,"JioBrain is just ChatGPT with a Jio logo, nothing original",Negative,330,11,Pune
+1204,2025-02-09,Twitter,Jio AI Support,"AI customer support is a cost cutting excuse, bring back humans",Negative,465,73,Chennai
+1205,2024-09-13,Reddit,JioBrain,Jio AI chatbot actually solved my billing issue without transferring me,Positive,230,13,Kolkata
+1206,2024-09-15,Reddit,JioBrain,"Jio AI integration is okay, nothing groundbreaking yet",Neutral,126,90,Ahmedabad
+1207,2024-09-24,Reddit,JioMart AI,Jio AI announcements sound big but execution is average,Neutral,190,36,Pune
+1208,2024-12-13,Twitter,JioMart AI,Impressed by how Jio is integrating AI into everyday services,Positive,33,42,Delhi
+1209,2024-05-25,LinkedIn,Jio Network AI,"JioBrain gave me wrong information confidently, dangerous",Negative,447,19,Kolkata
+1210,2024-03-13,LinkedIn,JioMart AI,JioCinema AI dubbing quality has improved massively this year,Positive,495,83,Pune
+1211,2025-04-25,Twitter,JioMart AI,"Jio AI is making internet accessible to rural India, respect",Positive,286,48,Kolkata
+1212,2024-02-17,Quora,Jio Network AI,Jio AI announcements sound big but execution is average,Neutral,185,2,Kolkata
+1213,2024-06-23,Quora,JioCinema AI,"Jio AI network optimization is real, my speeds have improved significantly",Positive,115,17,Bangalore
+1214,2024-09-16,Twitter,JioMart AI,"Jio's AI customer support resolved my issue in 2 minutes, no human needed",Positive,448,98,Bangalore
+1215,2024-03-24,Reddit,Jio Network AI,"JioCinema AI recommendations are terrible, shows me same content repeatedly",Negative,414,21,Ahmedabad
+1216,2024-12-12,Reddit,Jio AI Support,Impressed by how Jio is integrating AI into everyday services,Positive,312,36,Ahmedabad
+1217,2024-06-07,Quora,JioCinema AI,"Jio AI network optimization is real, my speeds have improved significantly",Positive,188,86,Ahmedabad
+1218,2025-02-02,Quora,Jio Network AI,"JioMart AI suggested products I already bought, zero intelligence",Negative,270,53,Bangalore
+1219,2024-03-11,LinkedIn,JioBrain,Will give JioBrain more time before forming opinion,Neutral,328,61,Kolkata
+1220,2024-12-30,Twitter,JioMart AI,"Jio AI chatbot kept looping me in circles, useless",Negative,42,97,Bangalore
+1221,2024-03-16,Quora,JioBrain,The AI powered Jio app update is smooth and intuitive,Positive,484,28,Ahmedabad
+1222,2024-07-31,Twitter,Jio AI Support,"Tried JioBrain today, interesting concept, needs more work",Neutral,257,47,Chennai
+1223,2024-07-10,Reddit,JioBrain,"Jio's AI customer support resolved my issue in 2 minutes, no human needed",Positive,163,12,Kolkata
+1224,2024-01-20,LinkedIn,Jio AI Support,"JioCinema AI recommendations are terrible, shows me same content repeatedly",Negative,356,17,Ahmedabad
+1225,2025-04-08,Twitter,JioBrain,"JioBrain is actually impressive, recommended exactly what I needed",Positive,131,27,Bangalore
+1226,2024-11-07,Quora,JioBrain,Data hungry Jio AI is not something I trust with my information,Negative,397,36,Chennai
+1227,2024-05-02,Quora,Jio Network AI,"JioBrain is actually impressive, recommended exactly what I needed",Positive,234,8,Delhi
+1228,2024-11-01,Twitter,Jio Network AI,"JioMart AI is decent, not sure if it's actual AI or just filters",Neutral,294,30,Bangalore
+1229,2024-11-10,LinkedIn,JioCinema AI,"JioBrain is actually impressive, recommended exactly what I needed",Positive,292,53,Bangalore
+1230,2024-09-25,LinkedIn,JioBrain,"Jio AI chatbot kept looping me in circles, useless",Negative,488,67,Mumbai
+1231,2024-01-23,Quora,JioMart AI,Jio AI chatbot actually solved my billing issue without transferring me,Positive,129,95,Mumbai
+1232,2024-06-25,Reddit,JioBrain,"Jio's AI customer support resolved my issue in 2 minutes, no human needed",Positive,395,74,Kolkata
+1233,2024-10-06,LinkedIn,JioCinema AI,Impressed by how Jio is integrating AI into everyday services,Positive,425,99,Ahmedabad
+1234,2024-11-19,Reddit,JioCinema AI,"JioMart AI is decent, not sure if it's actual AI or just filters",Neutral,32,91,Ahmedabad
+1235,2024-01-23,Reddit,JioBrain,"Jio AI network optimization is real, my speeds have improved significantly",Positive,161,39,Pune
+1236,2024-08-30,LinkedIn,JioBrain,Jio AI announcements sound big but execution is average,Neutral,385,82,Chennai
+1237,2025-03-19,LinkedIn,JioMart AI,"JioBrain is actually impressive, recommended exactly what I needed",Positive,63,47,Pune
+1238,2025-04-03,Quora,JioMart AI,"JioMart AI is decent, not sure if it's actual AI or just filters",Neutral,498,23,Ahmedabad
+1239,2025-04-18,LinkedIn,JioBrain,"Jio AI privacy policy is vague, not comfortable sharing data",Negative,372,54,Delhi
+1240,2024-10-06,LinkedIn,JioMart AI,"JioCinema AI recommendations are scary good, been watching for 3 hours",Positive,52,10,Kolkata
+1241,2024-08-16,Quora,JioCinema AI,"JioMart AI suggested products I already bought, zero intelligence",Negative,353,56,Kolkata
+1242,2025-03-21,LinkedIn,Jio Network AI,"Jio AI is making internet accessible to rural India, respect",Positive,222,35,Mumbai
+1243,2024-07-26,LinkedIn,Jio Network AI,JioCinema AI dubbing quality has improved massively this year,Positive,410,95,Bangalore
+1244,2025-03-10,Quora,JioBrain,JioCinema AI recommendations are hit or miss for me,Neutral,64,8,Chennai
+1245,2024-07-04,Quora,Jio Network AI,"Jio AI privacy policy is vague, not comfortable sharing data",Negative,16,77,Bangalore
+1246,2024-07-09,Quora,JioBrain,"Jio AI privacy policy is vague, not comfortable sharing data",Negative,293,17,Kolkata
+1247,2024-05-22,Reddit,JioBrain,JioCinema AI dubbing quality has improved massively this year,Positive,13,94,Bangalore
+1248,2025-04-12,Twitter,JioMart AI,"JioBrain gave me wrong information confidently, dangerous",Negative,396,33,Ahmedabad
+1249,2024-05-26,Quora,JioCinema AI,"Jio is quietly becoming an AI company, this is underrated",Positive,62,17,Delhi
+1250,2024-08-15,Twitter,JioMart AI,Data hungry Jio AI is not something I trust with my information,Negative,341,44,Delhi
+1251,2025-04-01,LinkedIn,JioCinema AI,"JioMart AI suggested products I already bought, zero intelligence",Negative,364,90,Bangalore
+1252,2024-04-24,Twitter,JioCinema AI,"AI customer support is a cost cutting excuse, bring back humans",Negative,405,17,Chennai
+1253,2024-07-03,LinkedIn,Jio AI Support,"JioBrain is just ChatGPT with a Jio logo, nothing original",Negative,411,70,Bangalore
+1254,2024-02-03,LinkedIn,Jio AI Support,"Jio AI chatbot kept looping me in circles, useless",Negative,367,92,Ahmedabad
+1255,2025-02-25,Twitter,JioCinema AI,"JioBrain gave me wrong information confidently, dangerous",Negative,497,40,Delhi
+1256,2024-09-21,LinkedIn,JioCinema AI,JioCinema AI dubbing quality has improved massively this year,Positive,449,99,Bangalore
+1257,2024-08-09,Twitter,JioBrain,"JioCinema AI recommendations are terrible, shows me same content repeatedly",Negative,265,19,Hyderabad
+1258,2025-04-23,Reddit,JioMart AI,Impressed by how Jio is integrating AI into everyday services,Positive,485,66,Hyderabad
+1259,2024-04-10,LinkedIn,JioCinema AI,"JioBrain works for basic queries, complex ones not so much",Neutral,320,38,Delhi
+1260,2024-10-30,Reddit,JioCinema AI,"JioCinema AI recommendations are terrible, shows me same content repeatedly",Negative,337,79,Kolkata
+1261,2024-01-22,Twitter,JioBrain,Will give JioBrain more time before forming opinion,Neutral,23,82,Hyderabad
+1262,2024-08-01,Twitter,Jio AI Support,JioCinema AI subtitles are hilariously wrong sometimes,Negative,455,80,Hyderabad
+1263,2024-09-04,Reddit,Jio AI Support,"JioMart AI suggested products I already bought, zero intelligence",Negative,152,58,Delhi
+1264,2024-08-13,Quora,Jio AI Support,"JioCinema AI recommendations are terrible, shows me same content repeatedly",Negative,237,26,Kolkata
+1265,2025-03-17,LinkedIn,JioMart AI,"Jio AI privacy policy is vague, not comfortable sharing data",Negative,499,51,Bangalore
+1266,2024-10-14,Twitter,JioMart AI,"AI customer support is a cost cutting excuse, bring back humans",Negative,123,59,Delhi
+1267,2024-03-13,Twitter,JioBrain,"Jio AI network optimization is real, my speeds have improved significantly",Positive,148,49,Pune
+1268,2025-02-20,LinkedIn,Jio Network AI,"JioCinema AI recommendations are scary good, been watching for 3 hours",Positive,369,40,Chennai
+1269,2024-09-20,Quora,Jio AI Support,Jio is just rebranding existing AI tools as their own innovation,Negative,450,39,Ahmedabad
+1270,2024-09-15,Quora,JioCinema AI,JioBrain understands Hindi queries better than Google Assistant honestly,Positive,110,74,Kolkata
+1271,2024-09-10,Quora,JioMart AI,JioMart AI suggestions are actually relevant unlike Amazon recommendations,Positive,274,1,Delhi
+1272,2025-01-07,LinkedIn,Jio AI Support,JioMart AI suggestions are actually relevant unlike Amazon recommendations,Positive,187,5,Pune
+1273,2024-04-09,LinkedIn,Jio Network AI,The AI powered Jio app update is smooth and intuitive,Positive,147,9,Pune
+1274,2024-05-23,Twitter,JioCinema AI,"AI customer support is a cost cutting excuse, bring back humans",Negative,499,12,Pune
+1275,2024-10-12,LinkedIn,JioCinema AI,Impressed by how Jio is integrating AI into everyday services,Positive,101,77,Pune
+1276,2024-01-20,Reddit,JioMart AI,"JioBrain is just ChatGPT with a Jio logo, nothing original",Negative,411,60,Ahmedabad
+1277,2024-03-12,LinkedIn,Jio Network AI,The AI powered Jio app update is smooth and intuitive,Positive,163,20,Pune
+1278,2024-10-30,LinkedIn,Jio Network AI,"JioBrain works for basic queries, complex ones not so much",Neutral,424,65,Ahmedabad
+1279,2024-08-31,Twitter,JioMart AI,"JioMart AI suggested products I already bought, zero intelligence",Negative,169,86,Delhi
+1280,2024-06-06,Twitter,Jio Network AI,Will give JioBrain more time before forming opinion,Neutral,242,33,Chennai
+1281,2024-09-02,Reddit,Jio Network AI,JioCinema AI subtitles are hilariously wrong sometimes,Negative,322,92,Pune
+1282,2024-05-04,Twitter,Jio Network AI,JioCinema AI dubbing quality has improved massively this year,Positive,485,89,Delhi
+1283,2024-06-09,Quora,JioCinema AI,Jio AI chatbot actually solved my billing issue without transferring me,Positive,211,88,Chennai
+1284,2025-04-16,Quora,JioBrain,"Jio is quietly becoming an AI company, this is underrated",Positive,361,17,Chennai
+1285,2024-09-01,Quora,JioMart AI,Jio AI hype is massive but product is mediocre,Negative,489,22,Ahmedabad
+1286,2024-10-06,LinkedIn,JioMart AI,Jio AI is functional but not wow worthy yet,Neutral,312,61,Chennai
+1287,2024-10-12,LinkedIn,JioCinema AI,"JioBrain works for basic queries, complex ones not so much",Neutral,482,38,Hyderabad
+1288,2024-12-26,Quora,JioMart AI,Data hungry Jio AI is not something I trust with my information,Negative,245,44,Hyderabad
+1289,2024-12-12,Quora,Jio AI Support,"Jio is quietly becoming an AI company, this is underrated",Positive,419,44,Bangalore
+1290,2024-12-31,Twitter,JioMart AI,JioMart AI suggestions are actually relevant unlike Amazon recommendations,Positive,473,56,Hyderabad
+1291,2024-04-13,LinkedIn,Jio Network AI,Jio calling their basic automation AI is a joke,Negative,356,34,Bangalore
+1292,2024-10-27,Reddit,JioCinema AI,"Jio AI is making internet accessible to rural India, respect",Positive,25,85,Chennai
+1293,2024-02-21,Quora,JioMart AI,"JioBrain is just ChatGPT with a Jio logo, nothing original",Negative,367,60,Delhi
+1294,2024-01-03,Reddit,Jio AI Support,"JioCinema AI recommendations are terrible, shows me same content repeatedly",Negative,334,60,Ahmedabad
+1295,2024-06-13,LinkedIn,JioBrain,"JioMart AI suggested products I already bought, zero intelligence",Negative,464,98,Delhi
+1296,2024-09-30,Twitter,JioCinema AI,Jio calling their basic automation AI is a joke,Negative,213,22,Mumbai
+1297,2025-02-07,Quora,JioCinema AI,Mixed feelings about Jio pushing AI into everything,Neutral,479,95,Hyderabad
+1298,2024-06-01,Twitter,JioMart AI,"Tried JioBrain today, interesting concept, needs more work",Neutral,145,58,Ahmedabad
+1299,2025-03-11,Quora,JioMart AI,JioCinema AI recommendations are hit or miss for me,Neutral,98,14,Kolkata
+1300,2024-11-27,LinkedIn,JioCinema AI,Jio AI chatbot actually solved my billing issue without transferring me,Positive,7,94,Kolkata
+1301,2024-12-11,Reddit,JioCinema AI,JioCinema AI subtitles are hilariously wrong sometimes,Negative,312,81,Pune
+1302,2024-06-16,Twitter,Jio AI Support,Jio AI announcements sound big but execution is average,Neutral,342,12,Bangalore
+1303,2024-06-14,Reddit,JioBrain,"JioMart AI is decent, not sure if it's actual AI or just filters",Neutral,133,49,Chennai
+1304,2024-06-17,LinkedIn,Jio Network AI,JioMart AI suggestions are actually relevant unlike Amazon recommendations,Positive,370,73,Mumbai
+1305,2024-12-20,Reddit,JioBrain,Impressed by how Jio is integrating AI into everyday services,Positive,341,15,Ahmedabad
+1306,2024-12-17,LinkedIn,JioBrain,JioBrain understands Hindi queries better than Google Assistant honestly,Positive,327,37,Kolkata
+1307,2024-03-09,Quora,JioCinema AI,Jio calling their basic automation AI is a joke,Negative,232,95,Kolkata
+1308,2025-04-12,Quora,Jio Network AI,The AI powered Jio app update is smooth and intuitive,Positive,410,85,Chennai
+1309,2025-01-21,Twitter,Jio Network AI,Jio AI hype is massive but product is mediocre,Negative,228,67,Kolkata
+1310,2024-02-27,Twitter,Jio Network AI,"Jio is quietly becoming an AI company, this is underrated",Positive,462,64,Chennai
+1311,2024-03-25,LinkedIn,Jio Network AI,"JioCinema AI recommendations are terrible, shows me same content repeatedly",Negative,226,14,Chennai
+1312,2024-02-16,Quora,JioBrain,Jio is just rebranding existing AI tools as their own innovation,Negative,232,16,Pune
+1313,2024-10-13,Quora,JioMart AI,"JioBrain is just ChatGPT with a Jio logo, nothing original",Negative,370,2,Pune
+1314,2025-01-16,Reddit,Jio Network AI,"JioBrain is actually impressive, recommended exactly what I needed",Positive,37,5,Pune
+1315,2024-10-04,Twitter,JioBrain,"Jio's AI customer support resolved my issue in 2 minutes, no human needed",Positive,478,60,Mumbai
+1316,2025-01-28,Reddit,Jio AI Support,"JioCinema AI recommendations are scary good, been watching for 3 hours",Positive,191,48,Ahmedabad
+1317,2024-07-11,Twitter,Jio Network AI,Mixed feelings about Jio pushing AI into everything,Neutral,68,83,Kolkata
+1318,2024-07-20,Reddit,JioCinema AI,The AI powered Jio app update is smooth and intuitive,Positive,427,0,Mumbai
+1319,2024-12-10,Quora,Jio Network AI,"JioMart AI is decent, not sure if it's actual AI or just filters",Neutral,194,29,Chennai
+1320,2024-05-21,Reddit,JioBrain,"JioCinema AI recommendations are terrible, shows me same content repeatedly",Negative,16,84,Pune
+1321,2024-05-03,Reddit,JioBrain,"JioBrain is just ChatGPT with a Jio logo, nothing original",Negative,51,76,Mumbai
+1322,2024-12-26,Twitter,JioCinema AI,JioCinema AI dubbing quality has improved massively this year,Positive,379,5,Pune
+1323,2024-04-21,Twitter,JioCinema AI,The AI powered Jio app update is smooth and intuitive,Positive,257,37,Chennai
+1324,2024-06-12,LinkedIn,JioCinema AI,Will give JioBrain more time before forming opinion,Neutral,154,18,Chennai
+1325,2024-02-01,Reddit,Jio AI Support,JioMart AI suggestions are actually relevant unlike Amazon recommendations,Positive,284,63,Mumbai
+1326,2025-02-06,LinkedIn,Jio AI Support,Mixed feelings about Jio pushing AI into everything,Neutral,209,19,Hyderabad
+1327,2024-08-30,Reddit,JioCinema AI,The AI powered Jio app update is smooth and intuitive,Positive,153,90,Bangalore
+1328,2024-10-14,Quora,Jio AI Support,"Tried JioBrain today, interesting concept, needs more work",Neutral,285,67,Bangalore
+1329,2024-04-14,LinkedIn,JioBrain,JioMart AI suggestions are actually relevant unlike Amazon recommendations,Positive,472,57,Kolkata
+1330,2025-02-28,Reddit,JioBrain,"Jio AI is making internet accessible to rural India, respect",Positive,137,48,Mumbai
+1331,2025-02-15,Reddit,Jio AI Support,Waiting to see how Jio AI develops over next year,Neutral,106,42,Hyderabad
+1332,2024-04-18,Reddit,JioBrain,"Tried JioBrain today, interesting concept, needs more work",Neutral,382,96,Ahmedabad
+1333,2024-12-26,Reddit,Jio AI Support,Will give JioBrain more time before forming opinion,Neutral,468,30,Kolkata
+1334,2024-08-26,LinkedIn,JioMart AI,"JioBrain gave me wrong information confidently, dangerous",Negative,133,46,Ahmedabad
+1335,2024-08-28,LinkedIn,JioCinema AI,Data hungry Jio AI is not something I trust with my information,Negative,189,40,Pune
+1336,2025-01-14,Reddit,JioBrain,"Jio AI network optimization is real, my speeds have improved significantly",Positive,133,70,Pune
+1337,2024-06-17,Reddit,Jio AI Support,"Jio AI network optimization is real, my speeds have improved significantly",Positive,291,31,Ahmedabad
+1338,2024-06-21,LinkedIn,Jio AI Support,Jio AI hype is massive but product is mediocre,Negative,494,92,Ahmedabad
+1339,2025-02-11,LinkedIn,JioCinema AI,Data hungry Jio AI is not something I trust with my information,Negative,71,92,Ahmedabad
+1340,2024-11-24,Twitter,Jio Network AI,The AI powered Jio app update is smooth and intuitive,Positive,17,9,Mumbai
+1341,2024-03-11,Reddit,JioBrain,"JioBrain gave me wrong information confidently, dangerous",Negative,362,19,Mumbai
+1342,2024-07-10,Twitter,Jio Network AI,Jio AI chatbot actually solved my billing issue without transferring me,Positive,326,85,Ahmedabad
+1343,2024-01-04,Quora,JioBrain,"JioBrain is just ChatGPT with a Jio logo, nothing original",Negative,8,67,Hyderabad
+1344,2024-01-09,Quora,JioCinema AI,"JioMart AI suggested products I already bought, zero intelligence",Negative,54,12,Bangalore
+1345,2024-09-26,LinkedIn,JioMart AI,"Jio is quietly becoming an AI company, this is underrated",Positive,136,50,Delhi
+1346,2024-08-23,Reddit,JioCinema AI,JioBrain understands Hindi queries better than Google Assistant honestly,Positive,153,87,Delhi
+1347,2025-01-23,Twitter,JioBrain,Jio AI hype is massive but product is mediocre,Negative,207,48,Pune
+1348,2024-11-22,Twitter,JioCinema AI,"JioBrain is just ChatGPT with a Jio logo, nothing original",Negative,42,63,Pune
+1349,2024-10-16,Twitter,Jio Network AI,"Jio AI privacy policy is vague, not comfortable sharing data",Negative,470,5,Chennai
+1350,2025-03-30,Quora,JioMart AI,"Jio AI is making internet accessible to rural India, respect",Positive,23,9,Hyderabad
+1351,2024-12-02,Twitter,JioCinema AI,Will give JioBrain more time before forming opinion,Neutral,475,40,Mumbai
+1352,2024-03-14,Quora,JioBrain,Will give JioBrain more time before forming opinion,Neutral,153,20,Chennai
+1353,2024-12-12,LinkedIn,Jio AI Support,"JioBrain gave me wrong information confidently, dangerous",Negative,386,94,Bangalore
+1354,2025-01-05,Twitter,Jio Network AI,Data hungry Jio AI is not something I trust with my information,Negative,381,44,Mumbai
+1355,2025-03-05,Twitter,JioMart AI,"Jio AI network optimization is real, my speeds have improved significantly",Positive,309,98,Pune
+1356,2024-01-16,LinkedIn,Jio AI Support,Jio AI is functional but not wow worthy yet,Neutral,251,29,Kolkata
+1357,2024-08-09,Reddit,Jio Network AI,"JioBrain gave me wrong information confidently, dangerous",Negative,338,48,Delhi
+1358,2025-02-12,Reddit,JioBrain,"JioMart AI suggested products I already bought, zero intelligence",Negative,42,34,Bangalore
+1359,2024-03-19,Quora,JioMart AI,JioCinema AI dubbing quality has improved massively this year,Positive,184,13,Delhi
+1360,2024-08-15,LinkedIn,JioMart AI,JioMart AI suggestions are actually relevant unlike Amazon recommendations,Positive,52,16,Delhi
+1361,2024-10-12,Quora,JioBrain,Jio AI chatbot actually solved my billing issue without transferring me,Positive,13,11,Kolkata
+1362,2024-11-02,LinkedIn,Jio AI Support,JioCinema AI subtitles are hilariously wrong sometimes,Negative,6,37,Pune
+1363,2025-01-06,Reddit,Jio Network AI,"Jio's AI customer support resolved my issue in 2 minutes, no human needed",Positive,266,21,Pune
+1364,2024-06-03,LinkedIn,Jio AI Support,JioMart AI suggestions are actually relevant unlike Amazon recommendations,Positive,74,8,Bangalore
+1365,2024-06-02,Quora,JioBrain,JioBrain understands Hindi queries better than Google Assistant honestly,Positive,184,32,Chennai
+1366,2024-10-31,Reddit,Jio AI Support,Jio is just rebranding existing AI tools as their own innovation,Negative,54,17,Hyderabad
+1367,2024-06-19,Quora,JioMart AI,JioBrain understands Hindi queries better than Google Assistant honestly,Positive,225,42,Pune
+1368,2024-03-10,LinkedIn,JioMart AI,Will give JioBrain more time before forming opinion,Neutral,308,88,Chennai
+1369,2024-07-22,LinkedIn,JioMart AI,"JioCinema AI recommendations are terrible, shows me same content repeatedly",Negative,376,88,Ahmedabad
+1370,2024-06-15,Quora,JioMart AI,Waiting to see how Jio AI develops over next year,Neutral,418,100,Pune
+1371,2024-04-12,Reddit,Jio Network AI,"Jio is quietly becoming an AI company, this is underrated",Positive,13,93,Ahmedabad
+1372,2024-08-12,LinkedIn,JioBrain,Waiting to see how Jio AI develops over next year,Neutral,419,52,Ahmedabad
+1373,2024-05-03,LinkedIn,JioCinema AI,JioMart AI suggestions are actually relevant unlike Amazon recommendations,Positive,366,54,Pune
+1374,2024-09-02,Quora,Jio Network AI,"Jio is quietly becoming an AI company, this is underrated",Positive,259,88,Pune
+1375,2024-12-25,Twitter,JioBrain,"Jio AI privacy policy is vague, not comfortable sharing data",Negative,393,31,Kolkata
+1376,2024-01-23,Quora,JioMart AI,"Jio is quietly becoming an AI company, this is underrated",Positive,494,55,Delhi
+1377,2024-04-23,Reddit,Jio AI Support,JioMart AI suggestions are actually relevant unlike Amazon recommendations,Positive,191,50,Ahmedabad
+1378,2024-12-19,Reddit,JioMart AI,JioCinema AI subtitles are hilariously wrong sometimes,Negative,12,61,Delhi
+1379,2024-02-29,Reddit,JioMart AI,"Jio's AI customer support resolved my issue in 2 minutes, no human needed",Positive,159,43,Ahmedabad
+1380,2024-09-04,LinkedIn,Jio AI Support,"AI customer support is a cost cutting excuse, bring back humans",Negative,49,56,Ahmedabad
+1381,2024-01-23,Twitter,JioBrain,JioMart AI suggestions are actually relevant unlike Amazon recommendations,Positive,434,43,Delhi
+1382,2025-04-21,Reddit,Jio Network AI,"JioCinema AI recommendations are terrible, shows me same content repeatedly",Negative,89,70,Bangalore
+1383,2024-08-24,Reddit,Jio AI Support,JioBrain understands Hindi queries better than Google Assistant honestly,Positive,322,23,Bangalore
+1384,2024-07-21,Twitter,Jio Network AI,"JioBrain gave me wrong information confidently, dangerous",Negative,452,25,Ahmedabad
+1385,2024-01-03,Reddit,JioCinema AI,"JioBrain gave me wrong information confidently, dangerous",Negative,142,96,Delhi
+1386,2024-04-05,LinkedIn,JioMart AI,"AI customer support is a cost cutting excuse, bring back humans",Negative,100,58,Delhi
+1387,2024-09-27,LinkedIn,Jio Network AI,Jio AI chatbot actually solved my billing issue without transferring me,Positive,198,78,Pune
+1388,2024-06-29,Quora,Jio Network AI,"Jio AI privacy policy is vague, not comfortable sharing data",Negative,88,86,Hyderabad
+1389,2024-02-13,Reddit,JioMart AI,Will give JioBrain more time before forming opinion,Neutral,60,30,Hyderabad
+1390,2024-12-21,Reddit,Jio Network AI,Impressed by how Jio is integrating AI into everyday services,Positive,198,53,Bangalore
+1391,2024-04-05,Quora,Jio Network AI,"JioBrain gave me wrong information confidently, dangerous",Negative,355,82,Bangalore
+1392,2024-05-27,Reddit,JioCinema AI,Jio is just rebranding existing AI tools as their own innovation,Negative,161,57,Mumbai
+1393,2024-09-05,Reddit,JioCinema AI,"Tried JioBrain today, interesting concept, needs more work",Neutral,417,49,Ahmedabad
+1394,2024-07-31,Quora,Jio AI Support,Jio AI chatbot actually solved my billing issue without transferring me,Positive,85,10,Mumbai
+1395,2024-05-29,Twitter,JioMart AI,Jio calling their basic automation AI is a joke,Negative,115,68,Hyderabad
+1396,2024-10-16,Quora,Jio Network AI,Jio AI chatbot actually solved my billing issue without transferring me,Positive,261,14,Delhi
+1397,2025-02-25,LinkedIn,Jio Network AI,The AI powered Jio app update is smooth and intuitive,Positive,421,96,Mumbai
+1398,2024-10-06,Reddit,Jio AI Support,Jio is just rebranding existing AI tools as their own innovation,Negative,52,94,Chennai
+1399,2024-08-18,LinkedIn,JioMart AI,"JioBrain is actually impressive, recommended exactly what I needed",Positive,441,11,Ahmedabad
+1400,2025-02-01,Reddit,JioCinema AI,"Jio AI integration is okay, nothing groundbreaking yet",Neutral,415,94,Kolkata
+1401,2024-11-19,Quora,JioCinema AI,Will give JioBrain more time before forming opinion,Neutral,315,17,Chennai
+1402,2024-10-18,LinkedIn,Jio Network AI,"Tried JioBrain today, interesting concept, needs more work",Neutral,143,76,Bangalore
+1403,2024-05-29,LinkedIn,Jio Network AI,"Jio AI is making internet accessible to rural India, respect",Positive,136,65,Delhi
+1404,2025-04-15,Twitter,JioMart AI,JioBrain understands Hindi queries better than Google Assistant honestly,Positive,443,83,Bangalore
+1405,2024-05-07,Reddit,JioMart AI,"JioCinema AI recommendations are terrible, shows me same content repeatedly",Negative,424,31,Pune
+1406,2024-11-19,LinkedIn,Jio AI Support,JioCinema AI subtitles are hilariously wrong sometimes,Negative,192,57,Delhi
+1407,2024-07-25,LinkedIn,JioMart AI,"Jio AI chatbot kept looping me in circles, useless",Negative,232,62,Kolkata
+1408,2024-02-17,Quora,JioMart AI,Data hungry Jio AI is not something I trust with my information,Negative,435,8,Pune
+1409,2025-02-26,Reddit,Jio AI Support,JioBrain understands Hindi queries better than Google Assistant honestly,Positive,137,41,Hyderabad
+1410,2024-03-07,Quora,JioMart AI,"Jio is quietly becoming an AI company, this is underrated",Positive,457,87,Mumbai
+1411,2025-02-05,Quora,JioBrain,JioCinema AI dubbing quality has improved massively this year,Positive,63,20,Ahmedabad
+1412,2024-04-13,Reddit,JioMart AI,"JioBrain gave me wrong information confidently, dangerous",Negative,81,35,Delhi
+1413,2024-02-12,LinkedIn,JioCinema AI,"JioMart AI suggested products I already bought, zero intelligence",Negative,26,50,Hyderabad
+1414,2024-08-07,Twitter,JioBrain,Jio calling their basic automation AI is a joke,Negative,0,27,Ahmedabad
+1415,2024-04-25,Quora,JioBrain,"Jio is quietly becoming an AI company, this is underrated",Positive,4,89,Kolkata
+1416,2024-12-21,Reddit,Jio AI Support,Mixed feelings about Jio pushing AI into everything,Neutral,36,29,Pune
+1417,2024-02-22,LinkedIn,JioMart AI,"Jio's AI customer support resolved my issue in 2 minutes, no human needed",Positive,451,38,Bangalore
+1418,2024-11-24,Reddit,JioBrain,"JioCinema AI recommendations are scary good, been watching for 3 hours",Positive,271,72,Mumbai
+1419,2024-08-13,LinkedIn,JioCinema AI,"JioCinema AI recommendations are terrible, shows me same content repeatedly",Negative,321,95,Bangalore
+1420,2024-12-17,Quora,JioCinema AI,Will give JioBrain more time before forming opinion,Neutral,44,12,Bangalore
+1421,2025-01-08,Quora,JioMart AI,JioCinema AI subtitles are hilariously wrong sometimes,Negative,493,54,Kolkata
+1422,2024-05-21,Twitter,JioCinema AI,Jio calling their basic automation AI is a joke,Negative,283,76,Hyderabad
+1423,2024-01-14,LinkedIn,JioCinema AI,Data hungry Jio AI is not something I trust with my information,Negative,265,77,Chennai
+1424,2024-11-26,Twitter,JioCinema AI,"JioMart AI suggested products I already bought, zero intelligence",Negative,253,49,Delhi
+1425,2024-10-31,Twitter,Jio Network AI,JioCinema AI dubbing quality has improved massively this year,Positive,455,1,Kolkata
+1426,2024-07-17,Quora,JioMart AI,JioCinema AI recommendations are hit or miss for me,Neutral,279,87,Bangalore
+1427,2024-01-09,Twitter,JioBrain,"Jio AI chatbot kept looping me in circles, useless",Negative,134,27,Mumbai
+1428,2024-09-16,LinkedIn,Jio Network AI,Mixed feelings about Jio pushing AI into everything,Neutral,392,53,Pune
+1429,2024-11-23,Reddit,JioMart AI,"Jio AI chatbot kept looping me in circles, useless",Negative,42,39,Delhi
+1430,2025-02-17,Reddit,Jio Network AI,Jio calling their basic automation AI is a joke,Negative,167,50,Delhi
+1431,2025-01-08,Reddit,JioBrain,JioBrain understands Hindi queries better than Google Assistant honestly,Positive,125,11,Pune
+1432,2024-11-07,Twitter,JioMart AI,"Jio is quietly becoming an AI company, this is underrated",Positive,341,94,Bangalore
+1433,2024-03-11,Twitter,JioCinema AI,"Jio AI is making internet accessible to rural India, respect",Positive,254,44,Hyderabad
+1434,2025-01-18,LinkedIn,JioBrain,"JioCinema AI recommendations are scary good, been watching for 3 hours",Positive,394,3,Kolkata
+1435,2024-09-25,Twitter,JioMart AI,"JioBrain works for basic queries, complex ones not so much",Neutral,364,73,Delhi
+1436,2024-07-03,Twitter,Jio AI Support,"AI customer support is a cost cutting excuse, bring back humans",Negative,439,72,Bangalore
+1437,2025-01-30,Twitter,Jio Network AI,JioMart AI suggestions are actually relevant unlike Amazon recommendations,Positive,345,92,Delhi
+1438,2024-01-02,Twitter,JioBrain,The AI powered Jio app update is smooth and intuitive,Positive,125,5,Ahmedabad
+1439,2024-04-01,Twitter,Jio Network AI,"JioCinema AI recommendations are scary good, been watching for 3 hours",Positive,411,91,Pune
+1440,2024-08-01,LinkedIn,JioMart AI,"Jio AI network optimization is real, my speeds have improved significantly",Positive,422,9,Kolkata
+1441,2025-04-06,Twitter,JioCinema AI,JioCinema AI dubbing quality has improved massively this year,Positive,114,66,Mumbai
+1442,2025-03-25,Quora,JioMart AI,"Jio AI integration is okay, nothing groundbreaking yet",Neutral,396,39,Kolkata
+1443,2024-01-05,LinkedIn,JioCinema AI,Jio AI chatbot actually solved my billing issue without transferring me,Positive,149,72,Hyderabad
+1444,2024-08-25,LinkedIn,Jio Network AI,Jio calling their basic automation AI is a joke,Negative,497,63,Chennai
+1445,2025-01-24,Reddit,JioCinema AI,"AI customer support is a cost cutting excuse, bring back humans",Negative,3,52,Mumbai
+1446,2024-11-21,Twitter,JioMart AI,Impressed by how Jio is integrating AI into everyday services,Positive,0,97,Pune
+1447,2024-02-23,Reddit,Jio Network AI,"JioBrain works for basic queries, complex ones not so much",Neutral,121,53,Ahmedabad
+1448,2024-12-30,LinkedIn,JioBrain,JioCinema AI recommendations are hit or miss for me,Neutral,22,29,Pune
+1449,2024-08-22,Twitter,Jio Network AI,"Jio AI privacy policy is vague, not comfortable sharing data",Negative,48,64,Bangalore
+1450,2024-02-08,Twitter,Jio AI Support,"JioBrain gave me wrong information confidently, dangerous",Negative,339,16,Chennai
+1451,2025-04-19,Quora,JioMart AI,Impressed by how Jio is integrating AI into everyday services,Positive,162,57,Hyderabad
+1452,2024-03-10,Twitter,JioCinema AI,"Jio AI network optimization is real, my speeds have improved significantly",Positive,54,21,Ahmedabad
+1453,2024-03-02,LinkedIn,JioCinema AI,"JioBrain gave me wrong information confidently, dangerous",Negative,231,39,Ahmedabad
+1454,2024-02-16,Reddit,JioMart AI,"Jio's AI customer support resolved my issue in 2 minutes, no human needed",Positive,423,90,Mumbai
+1455,2024-03-16,Twitter,JioCinema AI,Impressed by how Jio is integrating AI into everyday services,Positive,495,45,Pune
+1456,2024-06-02,LinkedIn,JioCinema AI,Jio AI hype is massive but product is mediocre,Negative,15,51,Ahmedabad
+1457,2024-05-07,Twitter,Jio AI Support,"AI customer support is a cost cutting excuse, bring back humans",Negative,52,17,Delhi
+1458,2024-03-07,Reddit,Jio AI Support,"Jio AI network optimization is real, my speeds have improved significantly",Positive,190,87,Delhi
+1459,2025-04-14,Twitter,JioBrain,"JioMart AI suggested products I already bought, zero intelligence",Negative,33,25,Ahmedabad
+1460,2025-04-08,LinkedIn,JioBrain,"Jio AI integration is okay, nothing groundbreaking yet",Neutral,21,59,Mumbai
+1461,2024-08-09,Quora,Jio AI Support,"Jio is quietly becoming an AI company, this is underrated",Positive,15,48,Pune
+1462,2025-04-10,Reddit,JioMart AI,"Jio AI network optimization is real, my speeds have improved significantly",Positive,143,57,Bangalore
+1463,2024-11-11,Reddit,JioMart AI,"Jio is quietly becoming an AI company, this is underrated",Positive,255,52,Ahmedabad
+1464,2024-07-15,Reddit,Jio AI Support,JioMart AI suggestions are actually relevant unlike Amazon recommendations,Positive,102,82,Chennai
+1465,2025-02-10,Twitter,Jio AI Support,"AI customer support is a cost cutting excuse, bring back humans",Negative,400,91,Kolkata
+1466,2024-06-25,LinkedIn,Jio AI Support,Jio is just rebranding existing AI tools as their own innovation,Negative,138,23,Mumbai
+1467,2024-01-16,LinkedIn,JioBrain,"Jio AI network optimization is real, my speeds have improved significantly",Positive,414,60,Kolkata
+1468,2024-03-22,Twitter,JioCinema AI,Jio calling their basic automation AI is a joke,Negative,336,30,Hyderabad
+1469,2024-01-29,Reddit,Jio Network AI,Data hungry Jio AI is not something I trust with my information,Negative,433,49,Kolkata
+1470,2024-03-31,Reddit,Jio Network AI,JioCinema AI recommendations are hit or miss for me,Neutral,162,94,Kolkata
+1471,2024-12-26,LinkedIn,Jio Network AI,"Tried JioBrain today, interesting concept, needs more work",Neutral,288,18,Chennai
+1472,2024-10-04,LinkedIn,JioCinema AI,"JioMart AI is decent, not sure if it's actual AI or just filters",Neutral,251,4,Delhi
+1473,2024-04-22,Twitter,Jio Network AI,"Jio is quietly becoming an AI company, this is underrated",Positive,244,0,Kolkata
+1474,2025-02-16,Reddit,JioMart AI,Waiting to see how Jio AI develops over next year,Neutral,367,22,Kolkata
+1475,2024-10-27,Reddit,JioBrain,"JioCinema AI recommendations are scary good, been watching for 3 hours",Positive,433,67,Kolkata
+1476,2024-12-26,Quora,Jio Network AI,Jio AI is functional but not wow worthy yet,Neutral,51,43,Hyderabad
+1477,2025-01-09,Quora,Jio AI Support,"JioCinema AI recommendations are scary good, been watching for 3 hours",Positive,332,40,Bangalore
+1478,2024-12-21,LinkedIn,JioCinema AI,"AI customer support is a cost cutting excuse, bring back humans",Negative,340,75,Bangalore
+1479,2024-12-18,LinkedIn,JioCinema AI,"Jio AI is making internet accessible to rural India, respect",Positive,90,93,Mumbai
+1480,2024-07-19,Twitter,JioCinema AI,Will give JioBrain more time before forming opinion,Neutral,308,40,Chennai
+1481,2025-04-24,Quora,JioCinema AI,"Jio AI chatbot kept looping me in circles, useless",Negative,169,95,Delhi
+1482,2024-03-26,Twitter,JioMart AI,Impressed by how Jio is integrating AI into everyday services,Positive,228,1,Hyderabad
+1483,2024-02-04,LinkedIn,JioMart AI,"Jio AI is making internet accessible to rural India, respect",Positive,402,13,Mumbai
+1484,2025-01-10,Quora,JioCinema AI,Jio AI chatbot actually solved my billing issue without transferring me,Positive,452,52,Ahmedabad
+1485,2024-10-06,Quora,JioBrain,Jio AI is functional but not wow worthy yet,Neutral,424,61,Chennai
+1486,2025-02-13,Twitter,JioMart AI,"Jio's AI customer support resolved my issue in 2 minutes, no human needed",Positive,10,40,Hyderabad
+1487,2024-06-24,Reddit,Jio AI Support,"Jio AI integration is okay, nothing groundbreaking yet",Neutral,82,93,Delhi
+1488,2024-06-22,Quora,JioBrain,"Jio AI chatbot kept looping me in circles, useless",Negative,220,83,Bangalore
+1489,2024-03-21,Twitter,JioBrain,"JioBrain gave me wrong information confidently, dangerous",Negative,169,26,Chennai
+1490,2025-01-04,LinkedIn,JioMart AI,The AI powered Jio app update is smooth and intuitive,Positive,152,30,Delhi
+1491,2024-10-08,Quora,JioCinema AI,"Jio is quietly becoming an AI company, this is underrated",Positive,27,46,Mumbai
+1492,2025-02-25,Quora,JioCinema AI,JioMart AI suggestions are actually relevant unlike Amazon recommendations,Positive,49,3,Chennai
+1493,2024-02-11,Quora,JioBrain,JioMart AI suggestions are actually relevant unlike Amazon recommendations,Positive,157,100,Pune
+1494,2024-05-15,Twitter,Jio Network AI,Jio AI hype is massive but product is mediocre,Negative,198,23,Kolkata
+1495,2024-04-05,Quora,JioBrain,Jio AI is functional but not wow worthy yet,Neutral,134,56,Ahmedabad
+1496,2024-10-15,Twitter,JioCinema AI,JioMart AI suggestions are actually relevant unlike Amazon recommendations,Positive,385,89,Delhi
+1497,2025-02-17,Quora,Jio Network AI,Impressed by how Jio is integrating AI into everyday services,Positive,116,70,Mumbai
+1498,2024-08-02,Quora,Jio Network AI,Jio AI announcements sound big but execution is average,Neutral,451,30,Ahmedabad
+1499,2025-04-07,Twitter,Jio Network AI,JioBrain understands Hindi queries better than Google Assistant honestly,Positive,292,66,Bangalore
+1500,2024-03-29,Reddit,JioCinema AI,Jio AI chatbot actually solved my billing issue without transferring me,Positive,413,24,Bangalore
